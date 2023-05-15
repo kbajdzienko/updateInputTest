@@ -1,0 +1,26 @@
+{
+    "id": "E2E27FF2",
+    "path": "C:/KB_Software/projects/updateInputTest/app/main.R",
+    "project_path": "app/main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684152755245.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,1",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684154711,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684154711228,
+    "read_only": false,
+    "read_only_alternatives": []
+}
